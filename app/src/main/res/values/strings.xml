@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">BeerAdviser</string>
+    <string name="app_name">Beer adviser</string>
+    <string name="beer_advice">Are you ready to drink?</string>
+    <string-array name="beer_color">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+    <string name="get_advice">Get advice</string>
 </resources>
